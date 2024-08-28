@@ -5,6 +5,6 @@
 
 int main()
 {
-    int a = 741; 
+    int a = 6; 
     std::cout << "Hello World!\n";
 }
