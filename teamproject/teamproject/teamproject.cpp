@@ -5,6 +5,10 @@
 
 int main()
 {
+<<<<<<< HEAD
     int a = 456; 
+=======
+    int a = 3; 
+>>>>>>> origin/main
     std::cout << "Hello World!\n";
 }
